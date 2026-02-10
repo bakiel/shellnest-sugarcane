@@ -1,0 +1,18 @@
+# Unused legacy images (AI-generated, replaced with stock photos)
+assets/images/sugarcane-*.png
+assets/images/kzn-landscape.png
+assets/images/cutouts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unused logos (exports site originals)
+assets/logos/shellnest-logo-full.svg
+assets/logos/shellnest-logo-white.svg
+assets/logos/shellnest-primary-icon.svg
+assets/logos/shellnest-white-icon.svg
+
+# Temporary
+og-card.html
+screenshots/
